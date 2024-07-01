@@ -9,10 +9,10 @@
         "value": "eastus"
       },
         "accountCognitiveSearchName": {
-        "value": "cogServiceCH"
+        "value": "cog-service-ch"
       },
          "serverName": {
-         "value": "serverCH"
+         "value": "server-ch"
       },
         "administratorLogin": {
         "value": "cahernandez1"
@@ -21,7 +21,7 @@
         "value": "LisaLisa123."
       },
         "blobContainerName": {
-        "value": "blobCH"
+        "value": "blob-ch"
       }
     }
 }
