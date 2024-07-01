@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "accountDataLakeName": {
-        "value": "data-lake-ch"
+        "value": "datalakech"
       },
       "location": {
         "value": "eastus2"
       },
         "accountCognitiveSearchName": {
-        "value": "cog-service-ch"
+        "value": "cogservicech"
       },
          "serverName": {
-         "value": "server-ch"
+         "value": "serverch"
       },
         "administratorLogin": {
         "value": "cahernandez1"
@@ -21,7 +21,7 @@
         "value": "LisaLisa123."
       },
         "blobContainerName": {
-        "value": "blob-ch"
+        "value": "blobch"
       }
     }
 }
