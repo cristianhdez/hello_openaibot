@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "accountDataLakeName": {
-        "value": "GEN-UNIQUE"
+        "value": "dataLakeCH"
       },
       "location": {
         "value": "eastus"
       },
         "accountCognitiveSearchName": {
-        "value": "GEN-UNIQUE"
+        "value": "cogServiceCH"
       },
          "serverName": {
-         "value": "GEN-UNIQUE"
+         "value": "serverCH"
       },
         "administratorLogin": {
-        "value": "GEN-UNIQUE"
+        "value": "cahernandez1"
       },
         "administratorLoginPassword": {
-        "value": "GEN-PASSWORD"
+        "value": "LisaLisa123."
       },
         "blobContainerName": {
-        "value": "yourowndata"
+        "value": "blobCH"
       }
     }
 }
