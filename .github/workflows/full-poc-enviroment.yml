@@ -3,11 +3,11 @@ name: 1 Deploy Full PoC Enviroment
 on: workflow_dispatch
 
 env:
-  AZURE_RG: rg-ai-bot-ch
+  AZURE_RG: rg-ai-bot-ch2
   AZURE_SUBSCRIPTION: ${{ secrets.AZURE_SUBSCRIPTION }}
   AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
   AZURE_REGION: eastus2
-  AZURE_OPENAI_NAME: azure-openai-ch2
+  AZURE_OPENAI_NAME: azureopenaich
 
 jobs:
   deploy-bicep-template:
