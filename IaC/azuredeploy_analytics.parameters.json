@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "accountDataLakeName": {
-        "value": "dataLakeCH"
+        "value": "data-lake-ch"
       },
       "location": {
         "value": "eastus"
