@@ -3,7 +3,7 @@ name: 1 Deploy Full PoC Enviroment
 on: workflow_dispatch
 
 env:
-  AZURE_RG: oabot-poc-ch
+  AZURE_RG: oabot-poc-ch2
   AZURE_SUBSCRIPTION: ${{ secrets.AZURE_SUBSCRIPTION }}
   AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
   AZURE_REGION: eastus2
