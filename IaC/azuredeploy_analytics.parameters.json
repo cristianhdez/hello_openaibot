@@ -6,7 +6,7 @@
         "value": "data-lake-ch"
       },
       "location": {
-        "value": "eastus"
+        "value": "eastus2"
       },
         "accountCognitiveSearchName": {
         "value": "cog-service-ch"
