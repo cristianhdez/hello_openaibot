@@ -7,7 +7,7 @@ env:
   AZURE_SUBSCRIPTION: ${{ secrets.AZURE_SUBSCRIPTION }}
   AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
   AZURE_REGION: eastus2
-  AZURE_OPENAI_NAME: aoaiservicech
+  AZURE_OPENAI_NAME: azure-openai-ch
 
 jobs:
   deploy-bicep-template:
