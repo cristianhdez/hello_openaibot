@@ -10,8 +10,8 @@ env:
   ACR_LOGINSERVER: ${{ secrets.ACR_LOGINSERVER }}
   IMAGE_NAME: oabot
   IMAGE_TAG: 3978
-  CONTAINER_APP_NAME: oabotdemoch
-  CONTAINER_APP_ENV:  env-fsjceeagdb7e4
+  CONTAINER_APP_NAME: app-oabotdemoch
+  CONTAINER_APP_ENV: env-fsjceeagdb7e4
 
 jobs:
   deploy-container-app:
